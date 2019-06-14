@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ARcore_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ARundigit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Your-First-AR-App-with-Sceneform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sceneform-android-sdk" vcs="Git" />
+  </component>
+</project>
